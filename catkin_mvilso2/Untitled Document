@@ -1,0 +1,5 @@
+roslaunch ur3_driver ur3_driver.launch 
+
+
+source devel/setup.bash
+rosrun lab2pkg_py lab2_exec.py
