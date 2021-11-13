@@ -1,4 +1,4 @@
-roslaunch ur3_driver ur3_driver.launch 
+roslaunch ur3_driver ur3_gazebo.launch
 
 
 source devel/setup.bash
