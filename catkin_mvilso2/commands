@@ -11,3 +11,6 @@ value="$(find ur3_driver)/worlds/room.world"
 
 spawn blocks
 rosrun lab2pkg_py lab2_spawn.py
+ 
+Camera feed
+rosrun image_view image_view image:=/cv_camera_node/image_raw
