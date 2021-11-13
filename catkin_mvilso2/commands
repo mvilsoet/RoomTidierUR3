@@ -1,5 +1,13 @@
+terminal 1
 roslaunch ur3_driver ur3_gazebo.launch
 
-
+terminal 2
 source devel/setup.bash
 rosrun lab2pkg_py lab2_exec.py
+
+world location
+~/catkin_mvilso2/src/final_proj/drivers/ur3_driver/worlds 
+value="$(find ur3_driver)/worlds/room.world"
+
+spawn blocks
+rosrun lab2pkg_py lab2_spawn.py
