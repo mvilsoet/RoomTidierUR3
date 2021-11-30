@@ -1,4 +1,4 @@
-# RoomTidierUR3
+# Sports Field Security Guard (formerly the RoomTidierUR3)
 This is our project for ECE470: Robot Kinematics
 We assume the user is on Linux Ubuntu and using Gazebo to simulate. We based our project on the UR3 library of functions written for RoS. Credit for the tutorials used goes to Universal Robotics https://www.universal-robots.com/products/ur3-robot/
 
